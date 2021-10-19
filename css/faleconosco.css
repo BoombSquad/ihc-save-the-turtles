@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+
+.redesSociais{
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
+.redes{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+}

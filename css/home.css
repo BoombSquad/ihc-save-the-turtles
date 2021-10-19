@@ -1,0 +1,29 @@
+.corpo{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.containerImg{
+    margin: 0px 10px 0px 10px;
+    width: 200%;
+}
+
+.texto{
+    position: relative;
+    margin-left: 5px;
+    text-align: justify;
+    font-size: large;
+    text-indent: 20px;
+}
+
+.texto h1{
+    text-align: center;
+}
+
+.textImg{
+    border: 5px solid white;
+    border-radius: 2%;
+    width: 100%;
+    height: auto;
+}
+
