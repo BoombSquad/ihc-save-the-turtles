@@ -8,6 +8,7 @@
     width: 200%;
 }
 
+
 .texto{
     position: relative;
     margin-left: 5px;
@@ -27,3 +28,10 @@
     height: auto;
 }
 
+footer{
+    align-items: center;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    
+}

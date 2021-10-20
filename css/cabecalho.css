@@ -20,8 +20,8 @@ body, html{
 
 .menu{
     position: relative;
-    margin-top: 3.8%;
-    margin-left: 65%;
+    margin-top: 8vh;
+    margin-left: 65vw;
     margin-right: 10px;
     text-align: right;
 }
@@ -33,8 +33,8 @@ body, html{
     margin: 2px;
     padding: 5px;
     color: black;
-    background-color: #ADD8E6;
     border: 2px solid #ADD8E6;
+    background-color: #ADD8E6;
 }
 
 .menuBtn:hover{
